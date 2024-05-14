@@ -6,5 +6,12 @@
     <string name="logo_description">Logo of Track N Jeep</string>
     <string name="btnF">F</string>
     <string name="btnG">G</string>
+    <string name="loginText">LOGIN</string>
+    <string name="trackNjeepEmail">tracknjeep@gmail.com</string>
+    <string name="trackNjeepPassword">********</string>
+    <string name="emailDefault">Email</string>
+    <string name="passwordDefault">Password</string>
+    <string name="logInDefault">Log In</string>
+    <string name="registerText">Register</string>
 
 </resources>
